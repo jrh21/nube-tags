@@ -1,9 +1,19 @@
 
 # Nube Naming Conventions
 
-### Examples
+## Examples
 
+fan_Status_ACU_1B
 
+Or 
+
+fanStatus
+
+or 
+
+Fan_Status
+
+or Fan Status
 
 
 
