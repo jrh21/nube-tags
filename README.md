@@ -1,10 +1,19 @@
-# nube-tags
 
+# Nube Naming Conventions
+
+### Examples
+
+
+
+
+
+
+# nube-tags
 
 ## Ref to exel sheet for tags
 https://docs.google.com/spreadsheets/d/1nk6Beu72GDU_h88nAiTzUfH6loXkUQLbimr9UmgNaEk/edit#gid=1119675202
 
-### SQL Tags
+## SQL Tags
 Tagging os for having an association for meta data with time series data 
 Project Haystack
 
