@@ -26,6 +26,8 @@ stateRef: NSW
 
 ```fan_Status```
 
+``Fan_Status``
+
 fan_Status_ACU_1B
 
 Or 
