@@ -1,12 +1,13 @@
 
 # Nube Naming Conventions
 
-### Example namimg not using tags
+### Example namimg
 
-point name: fan_Status_ACU_1B
+
+point name: zone_temp
 
 #### type
-```fan, zone, temp, droplet, fcu, point```
+```zone, temp, droplet, fcu, point```
 
 #### refTags
 ```zoneRef:@room_a, equipRef:@fcu_1, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
