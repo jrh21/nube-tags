@@ -3,12 +3,20 @@
 
 ### Example namimg
 
-
+### has an eqipRef
 point name: ```zone_temp```
 
 markers: ```zone, temp, droplet, fcu, point```
 
 ref: ```zoneRef:@room_a, equipRef:@fcu_1, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
+
+
+### has no eqipRef
+point name: ```zone_temp```
+
+markers: ```zone, temp, droplet, point```
+
+ref: ```zoneRef:@room_a, equipRef:@null, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
 
 
 
