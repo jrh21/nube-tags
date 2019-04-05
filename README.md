@@ -1,5 +1,5 @@
 
-# Nube Naming Conventions
+# Naming Convention
 
 ### Example namimg
 
