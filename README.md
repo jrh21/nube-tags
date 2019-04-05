@@ -1,6 +1,25 @@
 
 # Nube Naming Conventions
 
+### Example namimg not using tags
+
+point name: fan_Status_ACU_1B
+
+### example using tags
+
+```
+point name:  UI1 (Is not changed)
+tags: fan, status, ac, sensor
+```
+ref's
+```
+equipRef: 1B
+siteRef: Seaforth
+client: CBA
+stateRef: NSW
+
+```
+
 ## Examples
 
 fan_Status_ACU_1B
