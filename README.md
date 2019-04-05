@@ -24,6 +24,8 @@ stateRef: NSW
 
 ## Examples
 
+```fan_Status```
+
 fan_Status_ACU_1B
 
 Or 
