@@ -30,7 +30,7 @@ stateRef: NSW
 
 ```ac_Fan_Status```
 
-``ac_fan_Status``
+``ac_fan_status``
 
 ``acFanStatus``
 
