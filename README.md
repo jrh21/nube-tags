@@ -6,11 +6,11 @@
 
 point name: ```zone_temp```
 
-#### type
-```zone, temp, droplet, fcu, point```
 
-#### refTags
-```zoneRef:@room_a, equipRef:@fcu_1, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
+tagType```zone, temp, droplet, fcu, point```
+
+
+refTags```zoneRef:@room_a, equipRef:@fcu_1, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
 
 
 
