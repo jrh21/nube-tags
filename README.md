@@ -4,7 +4,7 @@
 ### Example namimg
 
 
-point name: zone_temp
+point name: ```zone_temp```
 
 #### type
 ```zone, temp, droplet, fcu, point```
