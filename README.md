@@ -31,20 +31,6 @@ stateRef: NSW
 ```ac_ra_fan_status```
 
 
-fan_Status_ACU_1B
-
-Or 
-
-fanStatus
-
-or 
-
-Fan_Status
-
-or Fan Status
-
-
-
 
 # nube-tags
 
