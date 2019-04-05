@@ -24,11 +24,9 @@ stateRef: NSW
 
 ## Examples
 
-```ac_fan_status```
+```ra_fan_status```
 
-```ac_raf_status```
-
-```ac_ra_fan_status```
+```sa_fan_status```
 
 
 
