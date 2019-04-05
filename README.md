@@ -35,6 +35,8 @@ stateRef: NSW
 ## Ref to exel sheet for tags
 https://docs.google.com/spreadsheets/d/1nk6Beu72GDU_h88nAiTzUfH6loXkUQLbimr9UmgNaEk/edit#gid=1119675202
 
+https://docs.google.com/spreadsheets/d/1nXWotLvyqipxYz8wp2lihJ0WT8vHFGQlQ9IRXMwyPr4/edit#gid=1813800346
+
 ## SQL Tags
 Tagging os for having an association for meta data with time series data 
 Project Haystack
