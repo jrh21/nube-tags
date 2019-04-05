@@ -5,6 +5,14 @@
 
 point name: fan_Status_ACU_1B
 
+#### type
+```fan, zone, temp, droplet, fcu, point```
+
+#### refTags
+```zoneRef:@room_a, equipRef:@fcu_1, siteRef:@124254345, siteName:@seaforth, stateRef@:nsw```
+
+
+
 ### example using tags
 
 ```
